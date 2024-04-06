@@ -1,0 +1,3 @@
+name = "hexyl-wasi"
+main = "target/wasm32-wasi/release/hexyl.wasm"
+compatibility_date = "2023-12-01"
